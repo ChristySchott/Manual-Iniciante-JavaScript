@@ -2,7 +2,7 @@
 
 Vale a pena dizer que tive conhecimento da existência do livro durante um curso de JavaScript na plataforma da [freeCodeCamp](https://www.freecodecamp.org/learn/). Os cursos são em inglês, mas são realmente muito completos e no final você ainda ganha um certificação.
 
-A corrente tradução é autorizada pelo autor Flavio Copes e iniciada por Christy Hauschild Schott. A tradução é em caráter voluntário e tem como único objetivo disponibilizar à comunidade o conteúdo do livro em português.
+A corrente tradução é autorizada pelo autor Flavio Copes e iniciada por Christy Hauschild Schott. A tradução é feita em caráter voluntário e tem como único objetivo disponibilizar à comunidade o conteúdo do livro em português.
 
 Com base na autorização do autor, concordei que:
 
