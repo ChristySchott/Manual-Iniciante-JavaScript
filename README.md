@@ -1,4 +1,4 @@
-# :brazil:  Manual do Iniciante em JavaScript  :brazil:
+# :green_book:  Manual do Iniciante em JavaScript  :ledger:
 
 Vale a pena dizer que tive conhecimento da existência do livro durante um curso de JavaScript na plataforma da [freeCodeCamp](https://www.freecodecamp.org/learn/). Os cursos são em inglês, mas são realmente muito completos e no final você ainda ganha um certificação.
 
@@ -25,7 +25,7 @@ Para conhecer mais trabalhos do autor e contribuir com ele, visite o seu [blog](
 
 
 ### Licença & Copyright
-Todo o material aqui divulgado é (c) 2018-2020 Flavio Cops.
+Todo o material aqui divulgado é (c) 2018-2020 Flavio Copes.
 
 Este trabalho está sob a licença Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 
