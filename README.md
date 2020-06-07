@@ -1,6 +1,9 @@
-# :green_book:  Manual do Iniciante em JavaScript  :ledger:
+<h1 align="center"> :green_book:  Manual do Iniciante em JavaScript  :ledger: </h1>
+
 
 Vale a pena dizer que tive conhecimento da existência do livro durante um curso de JavaScript na plataforma da [freeCodeCamp](https://www.freecodecamp.org/learn/). Os cursos são em inglês, mas são realmente muito completos e no final você ainda ganha um certificação.
+
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/cover-1.png" />
 
 A corrente tradução é autorizada pelo autor Flavio Copes e iniciada por Christy Hauschild Schott. A tradução é feita em caráter voluntário e tem como único objetivo disponibilizar à comunidade o conteúdo do livro em português.
 
