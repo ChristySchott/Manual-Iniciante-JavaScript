@@ -1,4 +1,4 @@
-# Manual do Iniciante em JavaScript
+<h1 align="center">Manual do Iniciante em JavaScript</h1>
 
 
 ### JavaScript é uma das linguagens de programação mais populares do mundo.
